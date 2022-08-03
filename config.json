@@ -1,0 +1,14 @@
+{
+  "ownerNumber": ["6285710128853@s.whatsapp.net"],
+  "ownerName": ["Fardan"],
+  "botName": "Baby Bot",
+  "sessionName": "fardan",
+  "pathimg": "./media/yo.jpg",
+  "gcwa": "https://chat.whatsapp.com/Jo8ijhlXJAGFAYtwKT1vt5",
+  "gamewaktu": 90,
+  "limitCount": 90,
+  "gcount": {
+	"prem": 100000000000,
+	"user": 30
+  }
+}
