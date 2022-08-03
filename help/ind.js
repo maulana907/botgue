@@ -35,7 +35,7 @@ exports.allmenu = (levelMenu, xpMenu, reqXp, role, jumlahUser, jumlahHarian, jum
 
 ╭── 「 *BOT INFO* 」 ──
 │
-│❒͡  _*ELAINA BOT*_ 
+│❒͡  _*BABY BOT*_ 
 │❒͡ *OWNER* : _*${setting.ownerName}*
 │❒͡ *Contact My Owner*
 │ *https://wa.me/6285710128853*
@@ -70,7 +70,7 @@ Status : ${isOwner ? 'Owner' : isPremium ? 'Premium' : 'Free'}
  𒍮 *Total Hit Today : ${jumlahHarian}*
  
  
-*── 「 ELAINA BOT 」 ──*
+*── 「 BABY BOT 」 ──*
 
 
 Catatan:
