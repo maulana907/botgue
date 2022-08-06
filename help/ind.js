@@ -46,7 +46,7 @@ exports.allmenu = (levelMenu, xpMenu, reqXp, role, jumlahUser, jumlahHarian, jum
 │ *Klik Link Dibawah:*
 │❮ \`\`\`https://cutt.ly/gZwaIwv\`\`\` ❯
 │
-╰── 「 *ELAINA BOT* 」 ──
+╰── 「 *BABY BOT* 」 ──
 
 ❉──────────────────❉  
 *Name* : *${pushname}* 
